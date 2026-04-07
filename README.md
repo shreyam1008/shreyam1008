@@ -51,7 +51,7 @@
 
 <div align="center">
 
-*Tabs vs spaces?* **Whoever pays me.**
+*Tabs vs spaces?* **Whoever pays me more.**
 
 </div>
 
