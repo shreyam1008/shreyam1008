@@ -21,27 +21,19 @@
 
 ## ⚡ About
 
-```js
-const shreyam = {
-  title: "Senior Full-Stack Engineer",
-  experience: "7+ years of shipping things that don't crash (usually)",
-  mantra: "If it's slow, it's wrong",
-  languages: ["TypeScript", "JavaScript", "Go", "Python"],
-  frontend: ["React 19", "Angular", "Tailwind CSS", "Zustand", "TanStack"],
-  backend: ["Go", "Node.js", "gRPC", "PostgreSQL"],
-  infra: ["Docker", "Caddy", "Cloudflare", "GitHub Actions"],
-  opinions: {
-    "bun > node":    "not even close",
-    "uv > pip":      "pip belongs in a museum",
-    "Tailwind > CSS-in-JS": "fight me",
-    "gRPC > REST":   "for anything beyond a todo app",
-    "tabs vs spaces": "whoever pays me",
-  },
-};
-```
+**Senior Full-Stack Engineer · 7+ years · Open-source obsessive**
 
-> I optimize for milliseconds the way other people optimize for readability.
-> Then I make it readable too. Because I'm not a monster.
+I ship frontend, backend, infra, and the opinions that come with all three.
+
+> **Tabs vs spaces?** Whoever pays me.
+
+### How I think about the stack
+
+- **Frontend** — The user should feel *happy*. I obsess over 2px alignment shifts, 60fps scroll, and hover states nobody consciously notices but everyone unconsciously feels. The best UI is the one where nothing feels wrong and you can't explain why.
+- **Backend** — Fast as physically possible. Go on all cores. I'd go Zig or Rust if I had the temperament, but Go ships today and ships clean.
+- **Database** — A necessary evil I've learned to respect. I don't love writing SQL at 2 AM, but the database is always right and I am usually wrong. We have an understanding.
+- **Deployment** — Muddy, chaotic, and I love every second of it. I would put my house in a Docker container if the landlord allowed it. Caddy, Cloudflare, GitHub Actions — if it can be automated, it will be.
+- **Tooling** — `bun` over `node`. `uv` over `pip`. If the tool is slower than the code it manages, the tool is the bug.
 
 ---
 
@@ -50,7 +42,7 @@ const shreyam = {
 <div align="center">
 
 🥇 **Winner — 14th National Technological Festival (LOCUS 2017)**<br/>
-**Thematic Software Category** · Institute of Engineering, Pulchowk Campus<br/>
+Institute of Engineering, Pulchowk Campus<br/>
 <sub>Built <em>"Annual Harvest Suggestor"</em> — an Android app that won the national software competition themed <strong>"Renovating Society"</strong>.<br/>Competed against engineering teams from across Nepal at the country's premier tech fest. Yes, we peaked in 2017. Everything since is a victory lap.</sub>
 
 </div>
@@ -140,15 +132,14 @@ const shreyam = {
 
 #### Frontend — where the pixels live
 ![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 #### Backend & Infra — where the magic happens
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 #### The fast lane 🏎️
@@ -159,9 +150,6 @@ const shreyam = {
 
 </div>
 
-<div align="center">
-<sub><b>Philosophy:</b> <code>bun</code> over <code>node</code>. <code>uv</code> over <code>pip</code>. <code>Go</code> over <code>"but we need a framework"</code>. If the tool is slower than the code it manages, the tool is the bug.</sub>
-</div>
 
 ---
 
