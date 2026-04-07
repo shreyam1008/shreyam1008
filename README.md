@@ -313,11 +313,13 @@ Institute of Engineering, Pulchowk Campus<br/>
 
 ---
 
-## 📈 Activity Graph
+## 😂 Random Dev Joke
 
 <div align="center">
 
-[![Shreyam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyam1008&theme=tokyo-night&hide_border=true&area=true&custom_title=Last%2031%20Days%20—%20Commit%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&qColor=%2358a6ff&aColor=%238b949e" alt="Dev Joke" />
+
+<sub>↻ Refresh the page for a new one</sub>
 
 </div>
 
