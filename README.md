@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- TYPING SVG HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=750&height=100&lines=%F0%9F%9A%80+Full-Stack+Engineer+%7C+7%2B+Years;%F0%9F%8F%86+National+Award+Winner+%7C+Open-Source+Toolsmith;%E2%9A%A1+bun+%3E+node+%C2%B7+uv+%3E+pip+%C2%B7+speed+%3E+everything)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=750&height=100&lines=%F0%9F%9A%80+Full-Stack+Engineer+%7C+7%2B+Years;%F0%9F%8F%86+National+Award+Winner+%7C+Open-Source+Toolsmith;%F0%9F%94%A7+I+build+tools+that+developers+actually+use)](https://git.io/typing-svg)
 
 <br/>
 
