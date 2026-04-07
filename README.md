@@ -313,11 +313,21 @@ Institute of Engineering, Pulchowk Campus<br/>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Activity Graph
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shreyam1008&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Shreyam's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyam1008&theme=tokyo-night&hide_border=true&area=true&custom_title=Last%2031%20Days%20—%20Commit%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🧊 3D Contributions
+
+<div align="center">
+
+<img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=shreyam1008&theme=dark&stats=true" alt="3D Isometric GitHub Contributions" width="100%" />
 
 </div>
 
