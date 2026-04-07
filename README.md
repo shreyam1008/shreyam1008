@@ -106,12 +106,12 @@ Institute of Engineering, Pulchowk Campus<br/>
   <tr>
     <td align="right" width="45%" valign="middle">
       <b>Small Tech Firm in Japan</b><br/>
-      <sub><i>Discipline & craft</i></sub><br/>
+      <sub><i>🇯🇵 Tokyo — Discipline & craft</i></sub><br/>
       <sub>Code reviews at 7 AM. Ship or explain why you didn't.</sub>
     </td>
     <td align="center" width="10%">
       <sub><b>&darr;</b></sub><br/>
-      <h2>🇯🇵</h2>
+      <h2>�</h2>
     </td>
     <td align="left" width="45%" valign="middle">
     </td>
@@ -125,14 +125,14 @@ Institute of Engineering, Pulchowk Campus<br/>
     </td>
     <td align="left" width="45%" valign="middle">
       <b>Enterprise Video Streaming Pipeline</b><br/>
-      <sub><i>Denmark</i></sub><br/>
+      <sub><i>🇩🇰 Denmark</i></sub><br/>
       <sub>Figured out scale — and that buffering is a personal insult to the user.</sub>
     </td>
   </tr>
   <tr>
     <td align="right" width="45%" valign="middle">
       <b>Multinational Healthcare System</b><br/>
-      <sub><i>US</i></sub><br/>
+      <sub><i>🇺🇸 US</i></sub><br/>
       <sub>Figured out systems that can't go down. Downtime here isn't a Slack alert — it's a patient.</sub>
     </td>
     <td align="center" width="10%">
@@ -151,7 +151,7 @@ Institute of Engineering, Pulchowk Campus<br/>
     </td>
     <td align="left" width="45%" valign="middle">
       <b>Techified Startups & Established Offices</b><br/>
-      <sub><i>Hometown (alongside everything)</i></sub><br/>
+      <sub><i>🇳🇵 Hometown (alongside everything)</i></sub><br/>
       <sub>Took non-tech companies from Excel dashboards to full-stack analytics platforms. Watched them grow with the tech world.</sub>
     </td>
   </tr>
@@ -289,10 +289,12 @@ Institute of Engineering, Pulchowk Campus<br/>
 ## 🔧 Open-Source Battle Scars & Homelab Life
 
 > [!TIP]
-> **The tools I've battled into submission** — Deployed, configured, debugged, cursed at, and eventually made work: **Metabase**, **Keycloak**, **Element/Matrix**, **Zulip**, and more. I don't know why half of these take a PhD to set up, but they're the most respectful tools in the bunch — and I'd choose them over any proprietary alternative, every single time.
+> **The tools I've battled into submission** — Deployed, configured, debugged, cursed at, and eventually made work. I don't know why half of these take a PhD to set up, but they're the most respectful tools in the bunch — and I'd choose them over any proprietary alternative, every single time.<br/><br/>
+> ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white) ![Keycloak](https://img.shields.io/badge/Keycloak-000?style=for-the-badge&logo=keycloak&logoColor=white) ![Element](https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white) ![Zulip](https://img.shields.io/badge/Zulip-1E1C22?style=for-the-badge&logo=zulip&logoColor=white) ![Stremio](https://img.shields.io/badge/Stremio-9B59B6?style=for-the-badge&logo=stremio&logoColor=white)
 
 > [!NOTE]
-> **Homelab person** — I will absolutely spend 2× the time self-hosting a NAS than it would cost to just pay for a cloud storage subscription. It's not about the money anymore. It's about the principle. And the uptime dashboard. And the blinking LEDs.
+> **Homelab person** — I will absolutely spend 2× the time self-hosting a NAS than it would cost to just pay for a cloud storage subscription. Network-wide ad-free DNS routing through a Raspberry Pi under my desk? Yes please. It's not about the money anymore. It's about the principle. And the uptime dashboard. And the blinking LEDs.<br/><br/>
+> ![Raspberry_Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white) ![AdGuard_Home](https://img.shields.io/badge/AdGuard_Home-68B739?style=for-the-badge&logo=adguard&logoColor=white) ![TrueNAS](https://img.shields.io/badge/TrueNAS-10497B?style=for-the-badge&logo=truenas&logoColor=white)
 
 ---
 
