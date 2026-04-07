@@ -6,7 +6,7 @@
 <br/>
 
 **I build developer tools. Some of them people actually use.**<br/>
-**The rest? Broken, rebuilt, and better for it.**
+**The rest? Sweat equity with a commit history.**
 
 <br/>
 
@@ -25,78 +25,30 @@
 
 **Senior Full-Stack Engineer · 7+ years · Open-source obsessive**
 
-*I ship frontend, backend, infra, and the opinions that come with all three.*
+*I ship frontend, backend, infra, SEO for the LLM era, and the opinions that come with all of it.*
 
 </div>
 
 <br/>
 
-<table>
-<tr>
-<td align="center" width="80">🎨</td>
-<td>
+> [!NOTE]
+> **Frontend** — The user should feel *happy*. I obsess over 2px alignment shifts, 60fps scroll, and hover states nobody consciously notices but everyone unconsciously feels. The best UI is the one where nothing feels wrong and you can't explain why.
 
-**Frontend**
+> [!TIP]
+> **Backend** — Fast as physically possible. Go on all cores. I'd go Zig or Rust if I had the temperament, but Go ships today and ships clean.
 
-The user should feel *happy*. I obsess over 2px alignment shifts, 60fps scroll, and hover states nobody consciously notices but everyone unconsciously feels. The best UI is the one where nothing feels wrong and you can't explain why.
+> [!WARNING]
+> **Database** — A necessary evil I've learned to respect. I don't love writing SQL at 2 AM, but the database is always right and I am usually wrong. We have an understanding.
 
-</td>
-</tr>
-<tr>
-<td align="center" width="80">⚙️</td>
-<td>
+> [!IMPORTANT]
+> **Deployment** — Muddy, chaotic, and I love every second of it. I would put my house in a Docker container if the landlord allowed it. Caddy, Cloudflare, GitHub Actions — if it can be automated, it will be.
 
-**Backend**
-
-Fast as physically possible. Go on all cores. I'd go Zig or Rust if I had the temperament, but Go ships today and ships clean.
-
-</td>
-</tr>
-<tr>
-<td align="center" width="80">🗃️</td>
-<td>
-
-**Database**
-
-A necessary evil I've learned to respect. I don't love writing SQL at 2 AM, but the database is always right and I am usually wrong. We have an understanding.
-
-</td>
-</tr>
-<tr>
-<td align="center" width="80">🚢</td>
-<td>
-
-**Deployment**
-
-Muddy, chaotic, and I love every second of it. I would put my house in a Docker container if the landlord allowed it. Caddy, Cloudflare, GitHub Actions — if it can be automated, it will be.
-
-</td>
-</tr>
-<tr>
-<td align="center" width="80">🏎️</td>
-<td>
-
-**Tooling**
-
-`bun` over `node`. `uv` over `pip`. If the tool is slower than the code it manages, the tool is the bug.
-
-</td>
-</tr>
-<tr>
-<td align="center" width="80">🧠</td>
-<td>
-
-**SEO in the LLM era**
-
-Search isn't just keywords anymore — it's structured data, semantic relevance, and making sure AI models can *understand* your content, not just index it. I optimize for both Google and the models that are replacing it.
-
-</td>
-</tr>
-</table>
+> [!CAUTION]
+> **Tooling** — `bun` over `node`. `uv` over `pip`. If the tool is slower than the code it manages, the tool is the bug.
 
 <div align="center">
 
-> *Tabs vs spaces?* **Whoever pays me.**
+*Tabs vs spaces?* **Whoever pays me.**
 
 </div>
 
@@ -118,21 +70,42 @@ Institute of Engineering, Pulchowk Campus<br/>
 
 <div align="center">
 <sub>The path was never a straight line. It was more of a <code>git rebase</code> that went sideways.</sub>
-</div>
+<br/><br/>
 
+✘ &ensp; **Failed a startup**
 <br/>
+<sub>Figured out what NOT to build. The most expensive education and the most useful one.</sub>
+<br/><br/>
+↓
+<br/><br/>
+🇯🇵 &ensp; **Small tech firm in Japan**
+<br/>
+<sub>Figured out discipline and craft. Code reviews at 7 AM. Ship or explain.</sub>
+<br/><br/>
+↓
+<br/><br/>
+🎬 &ensp; **Enterprise video streaming pipeline**
+<br/>
+<sub>Figured out scale — and that buffering is a personal insult to the user.</sub>
+<br/><br/>
+↓
+<br/><br/>
+🏥 &ensp; **Multinational healthcare system**
+<br/>
+<sub>Figured out systems that can't go down. Because downtime here isn't a Slack alert — it's a patient.</sub>
+<br/><br/>
+↓
+<br/><br/>
+💻 &ensp; **Techified startups & established offices**
+<br/>
+<sub>From Google Maps integrations to landing pages to full-blown platforms. Took them from <em>"we need a website"</em> to <em>"we need an engineering team."</em></sub>
+<br/><br/>
+↓
+<br/><br/>
+🙏 &ensp; **Radhey**
+<br/>
+<sub>Figured out purpose.</sub>
 
-```
-✘ Failed startup            →  Figured out what NOT to build
-🇯🇵 Small tech firm in Japan   →  Figured out discipline and craft
-🎬 Enterprise video pipeline  →  Figured out scale (and buffering nightmares)
-🏥 Multinational healthcare   →  Figured out systems that can't go down
-💻 Techified startups         →  From Google Maps integrations to landing pages to full platforms
-🙏 Radhey                     →  Figured out purpose
-```
-
-<div align="center">
-<sub>Along the way: helped multiple startups and established offices go from <em>"we need a website"</em> to <em>"we need an engineering team."</em></sub>
 </div>
 
 ---
