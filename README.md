@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- TYPING SVG HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=750&height=100&lines=%F0%9F%9A%80+Full-Stack+Engineer+%7C+7%2B+Years;%F0%9F%8F%86+National+Award+Winner+%7C+Open-Source+Toolsmith;%F0%9F%94%A7+I+build+tools+that+developers+actually+use)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=100&lines=%F0%9F%9A%80+Full-Stack+Engineer+%7C+7%2B+Years;%F0%9F%8F%86+National+Award+Winner+%7C+Open-Source+Toolsmith;%F0%9F%94%A7+I+build+tools+that+developers+actually+use)](https://git.io/typing-svg)
 
 <br/>
 
@@ -25,7 +25,7 @@
 
 **Senior Full-Stack Engineer · 7+ years · Open-source obsessive**
 
-*I ship frontend, backend, infra, SEO for the LLM era, and the opinions that come with all of it.*
+*I ship frontend, backend, infra, and the strong opinions that hold them together.*
 
 </div>
 
@@ -38,7 +38,7 @@
 > **Backend** — Fast as physically possible. Go on all cores. I'd go Zig or Rust if I had the temperament, but Go ships today and ships clean.
 
 > [!WARNING]
-> **Database** — A necessary evil I've learned to respect. I don't love writing SQL at 2 AM, but the database is always right and I am usually wrong. We have an understanding.
+> **Database** — A necessary evil I've learned to respect. I don't love writing SQL at 2 AM, but the database is always right and I am usually wrong. We may never truly understand each other — best I can do is pick SQL over NoSQL. Don't expect anything else.
 
 > [!IMPORTANT]
 > **Deployment** — Muddy, chaotic, and I love every second of it. I would put my house in a Docker container if the landlord allowed it. Caddy, Cloudflare, GitHub Actions — if it can be automated, it will be.
@@ -70,43 +70,58 @@ Institute of Engineering, Pulchowk Campus<br/>
 
 <div align="center">
 <sub>The path was never a straight line. It was more of a <code>git rebase</code> that went sideways.</sub>
-<br/><br/>
-
-✘ &ensp; **Failed a startup**
-<br/>
-<sub>Figured out what NOT to build. The most expensive education and the most useful one.</sub>
-<br/><br/>
-↓
-<br/><br/>
-🇯🇵 &ensp; **Small tech firm in Japan**
-<br/>
-<sub>Figured out discipline and craft. Code reviews at 7 AM. Ship or explain.</sub>
-<br/><br/>
-↓
-<br/><br/>
-🎬 &ensp; **Enterprise video streaming pipeline**
-<br/>
-<sub>Figured out scale — and that buffering is a personal insult to the user.</sub>
-<br/><br/>
-↓
-<br/><br/>
-🏥 &ensp; **Multinational healthcare system**
-<br/>
-<sub>Figured out systems that can't go down. Because downtime here isn't a Slack alert — it's a patient.</sub>
-<br/><br/>
-↓
-<br/><br/>
-💻 &ensp; **Techified startups & established offices**
-<br/>
-<sub>From Google Maps integrations to landing pages to full-blown platforms. Took them from <em>"we need a website"</em> to <em>"we need an engineering team."</em></sub>
-<br/><br/>
-↓
-<br/><br/>
-🙏 &ensp; **Radhey**
-<br/>
-<sub>Figured out purpose.</sub>
-
 </div>
+
+<br/>
+
+<details open>
+<summary>&ensp;⌨️&ensp;<b>The Grind</b></summary>
+
+> Automation scripts and data entry gigs for rent money. Got paid to click buttons professionally so I could eventually get paid to press keys professionally. Not glamorous — but it kept the lights on and the terminal open.
+
+</details>
+
+<details open>
+<summary>&ensp;✘&ensp;<b>Failed a Startup</b></summary>
+
+> Built something nobody asked for. Burned through savings and sleep. Figured out what NOT to build — the most expensive education and the most useful one.
+
+</details>
+
+<details open>
+<summary>&ensp;🇯🇵&ensp;<b>Small Tech Firm in Japan</b></summary>
+
+> Figured out discipline and craft. Code reviews at 7 AM. Ship or explain why you didn't.
+
+</details>
+
+<details open>
+<summary>&ensp;🎬&ensp;<b>Enterprise Video Streaming Pipeline</b></summary>
+
+> Figured out scale — and that buffering is a personal insult to the user.
+
+</details>
+
+<details open>
+<summary>&ensp;🏥&ensp;<b>Multinational Healthcare System</b></summary>
+
+> Figured out systems that can't go down. Downtime here isn't a Slack alert — it's a patient.
+
+</details>
+
+<details open>
+<summary>&ensp;💻&ensp;<b>Techified Startups & Established Offices</b>&ensp;<sub><i>· alongside everything</i></sub></summary>
+
+> Helped non-tech companies catch up with the modern world. Turned Excel-based workflows into full-stack analytics dashboards. Replaced manual processes with automated pipelines. Took them from *"can you add a Google Maps embed?"* to *"we need a proper engineering team."* — and watched them grow.
+
+</details>
+
+<details open>
+<summary>&ensp;🙏&ensp;<b>Radhey</b></summary>
+
+> Figured out purpose.
+
+</details>
 
 ---
 
