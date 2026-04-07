@@ -77,121 +77,96 @@ Institute of Engineering, Pulchowk Campus<br/>
 
 <br/>
 
-<table>
-<tr>
-<td align="center" width="50">
-<br/>
-<img width="1" height="1" />
-<sub>💸</sub>
-<br/>
-<img width="1" height="10" />
-<br/>
-<sub>│</sub>
-</td>
-<td>
-
-**The Grind**
-<br/>
-<sub>Automation scripts and data entry gigs for rent money. Got paid to click buttons professionally so I could eventually get paid to press <em>keys</em> professionally. Peak career trajectory.</sub>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50">
-<sub>│</sub>
-<br/>
-<sub>💥</sub>
-<br/>
-<sub>│</sub>
-</td>
-<td>
-
-**Failed a Startup**
-<br/>
-<sub>Built something nobody asked for. Burned through savings and sleep. Figured out what NOT to build — the most expensive education and the most useful one.</sub>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50">
-<sub>│</sub>
-<br/>
-<sub>🇯🇵</sub>
-<br/>
-<sub>│</sub>
-</td>
-<td>
-
-**Small Tech Firm in Japan**
-<br/>
-<sub>Figured out discipline and craft. Code reviews at 7 AM. Ship or explain why you didn't.</sub>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50">
-<sub>│</sub>
-<br/>
-<sub>🎬</sub>
-<br/>
-<sub>│</sub>
-</td>
-<td>
-
-**Enterprise Video Streaming Pipeline**
-<br/>
-<sub>Figured out scale — and that buffering is a personal insult to the user.</sub>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50">
-<sub>│</sub>
-<br/>
-<sub>🏥</sub>
-<br/>
-<sub>│</sub>
-</td>
-<td>
-
-**Multinational Healthcare System**
-<br/>
-<sub>Figured out systems that can't go down. Downtime here isn't a Slack alert — it's a patient.</sub>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50">
-<sub>│</sub>
-<br/>
-<sub>💻</sub>
-<br/>
-<sub>│</sub>
-</td>
-<td>
-
-**Techified Startups & Established Offices** &ensp; <sub><i>alongside everything</i></sub>
-<br/>
-<sub>Took non-tech companies from Excel dashboards and manual workflows to full-stack analytics platforms and automated pipelines. Helped them go from <em>"can someone update the spreadsheet?"</em> to <em>"we need a proper engineering team."</em> Watched them grow with the tech world.</sub>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50">
-<sub>│</sub>
-<br/>
-<sub>🙏</sub>
-<br/>
-<img width="1" height="1" />
-</td>
-<td>
-
-**Radhey**
-<br/>
-<sub>Figured out purpose.</sub>
-
-</td>
-</tr>
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td align="right" width="45%" valign="middle">
+      <b>The Grind</b><br/>
+      <sub><i>Data entry & automation</i></sub><br/>
+      <sub>Got paid to click buttons professionally so I could eventually get paid to press <em>keys</em> professionally. Peak career trajectory.</sub>
+    </td>
+    <td align="center" width="10%">
+      <h2>⌨️</h2>
+    </td>
+    <td align="left" width="45%" valign="middle">
+    </td>
+  </tr>
+  <tr>
+    <td align="right" width="45%" valign="middle">
+    </td>
+    <td align="center" width="10%">
+      <sub><b>&darr;</b></sub><br/>
+      <h2>✘</h2>
+    </td>
+    <td align="left" width="45%" valign="middle">
+      <b>Failed a Startup</b><br/>
+      <sub><i>Building what nobody asked for</i></sub><br/>
+      <sub>Burned through savings and sleep. Figured out what NOT to build — the most expensive education and the most useful one.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="right" width="45%" valign="middle">
+      <b>Small Tech Firm in Japan</b><br/>
+      <sub><i>Discipline & craft</i></sub><br/>
+      <sub>Code reviews at 7 AM. Ship or explain why you didn't.</sub>
+    </td>
+    <td align="center" width="10%">
+      <sub><b>&darr;</b></sub><br/>
+      <h2>🇯🇵</h2>
+    </td>
+    <td align="left" width="45%" valign="middle">
+    </td>
+  </tr>
+  <tr>
+    <td align="right" width="45%" valign="middle">
+    </td>
+    <td align="center" width="10%">
+      <sub><b>&darr;</b></sub><br/>
+      <h2>🎬</h2>
+    </td>
+    <td align="left" width="45%" valign="middle">
+      <b>Enterprise Video Streaming Pipeline</b><br/>
+      <sub><i>Denmark</i></sub><br/>
+      <sub>Figured out scale — and that buffering is a personal insult to the user.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="right" width="45%" valign="middle">
+      <b>Multinational Healthcare System</b><br/>
+      <sub><i>US</i></sub><br/>
+      <sub>Figured out systems that can't go down. Downtime here isn't a Slack alert — it's a patient.</sub>
+    </td>
+    <td align="center" width="10%">
+      <sub><b>&darr;</b></sub><br/>
+      <h2>🏥</h2>
+    </td>
+    <td align="left" width="45%" valign="middle">
+    </td>
+  </tr>
+  <tr>
+    <td align="right" width="45%" valign="middle">
+    </td>
+    <td align="center" width="10%">
+      <sub><b>&darr;</b></sub><br/>
+      <h2>💻</h2>
+    </td>
+    <td align="left" width="45%" valign="middle">
+      <b>Techified Startups & Established Offices</b><br/>
+      <sub><i>Hometown (alongside everything)</i></sub><br/>
+      <sub>Took non-tech companies from Excel dashboards to full-stack analytics platforms. Watched them grow with the tech world.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="right" width="45%" valign="middle">
+      <b>Radhey</b><br/>
+      <sub><i>Figured out purpose</i></sub>
+    </td>
+    <td align="center" width="10%">
+      <sub><b>&darr;</b></sub><br/>
+      <h2>🙏</h2>
+    </td>
+    <td align="left" width="45%" valign="middle">
+    </td>
+  </tr>
 </table>
 
 ---
