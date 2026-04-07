@@ -26,7 +26,7 @@
 
 **Senior Full-Stack Engineer · 7+ years · Open-source obsessive**
 <br/>
-<sub>B.E. Computer Engineering · M.Sc. Computer Science · Still Googling how to center a div</sub>
+<sub>B.E. and M.Sc. in CS, but still Googling how to center a div</sub>
 
 *I ship frontend, backend, infra, and the strong opinions that hold them together.*
 
