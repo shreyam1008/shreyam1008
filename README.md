@@ -6,7 +6,7 @@
 <br/>
 
 **I build developer tools. Some of them people actually use.**<br/>
-**The rest? READY TO GO IN THE MUD.**
+**The rest? Broken, rebuilt, and better for it.**
 
 <br/>
 
@@ -82,6 +82,16 @@ Muddy, chaotic, and I love every second of it. I would put my house in a Docker 
 
 </td>
 </tr>
+<tr>
+<td align="center" width="80">🧠</td>
+<td>
+
+**SEO in the LLM era**
+
+Search isn't just keywords anymore — it's structured data, semantic relevance, and making sure AI models can *understand* your content, not just index it. I optimize for both Google and the models that are replacing it.
+
+</td>
+</tr>
 </table>
 
 <div align="center">
@@ -100,6 +110,29 @@ Muddy, chaotic, and I love every second of it. I would put my house in a Docker 
 Institute of Engineering, Pulchowk Campus<br/>
 <sub>Built <em>"Annual Harvest Suggestor"</em> — an Android app that won the national software competition themed <strong>"Renovating Society"</strong>.<br/>Competed against engineering teams from across Nepal at the country's premier tech fest. Yes, we peaked in 2017. Everything since is a victory lap.</sub>
 
+</div>
+
+---
+
+## 📍 The Journey
+
+<div align="center">
+<sub>The path was never a straight line. It was more of a <code>git rebase</code> that went sideways.</sub>
+</div>
+
+<br/>
+
+```
+✘ Failed startup            →  Figured out what NOT to build
+🇯🇵 Small tech firm in Japan   →  Figured out discipline and craft
+🎬 Enterprise video pipeline  →  Figured out scale (and buffering nightmares)
+🏥 Multinational healthcare   →  Figured out systems that can't go down
+💻 Techified startups         →  From Google Maps integrations to landing pages to full platforms
+🙏 Radhey                     →  Figured out purpose
+```
+
+<div align="center">
+<sub>Along the way: helped multiple startups and established offices go from <em>"we need a website"</em> to <em>"we need an engineering team."</em></sub>
 </div>
 
 ---
