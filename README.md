@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- TYPING SVG HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=100&lines=%F0%9F%9A%80+Full-Stack+Engineer+%7C+7%2B+Years;%F0%9F%8F%86+National+Award+Winner+%7C+Open-Source+Toolsmith;%F0%9F%94%A7+I+build+tools+that+developers+actually+use)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=100&lines=%F0%9F%9A%80+Full-Stack+Engineer+%7C+7%2B+Years;%F0%9F%8F%86+National+Award+Winner+%7C+Open-Source+Toolsmith;%F0%9F%94%A7+I+build+tools+that+developers+actually+use)](https://git.io/typing-svg)
 
 <br/>
 
@@ -180,7 +180,9 @@ Institute of Engineering, Pulchowk Campus<br/>
 <td width="50%" valign="top">
 
 ### 💬 [GitVibes / GitSocial](https://gitvibes.pages.dev/)
-**Where code becomes conversation.** Social platform built around public GitHub activity — react to commits, comment on code, follow developers. Twitter for people who `git push` instead of posting selfies.<br/>
+> **Where code becomes conversation.**
+> <sub>Social platform built around public GitHub activity — react to commits, comment on code, follow developers. Twitter for people who `git push` instead of posting selfies.</sub><br/>
+
 `React` `TypeScript` `Cloudflare Pages`
 <br/>
 [![GitSocial](https://img.shields.io/badge/Visit-GitSocial-brightgreen?style=flat-square)](https://gitvibes.pages.dev/)
@@ -189,7 +191,9 @@ Institute of Engineering, Pulchowk Campus<br/>
 <td width="50%" valign="top">
 
 ### 🎬 [Movie Recommender](https://github.com/shreyam1008/Movie-Recommender-System)
-**Your Netflix algorithm wishes.** Describe what you want in plain English — cosine similarity finds it across tags, genres, cast, and keywords. NLP-powered, TMDB-backed. It knows your taste better than you do.<br/>
+> **Your Netflix algorithm wishes.**
+> <sub>Describe what you want in plain English — cosine similarity finds it across tags, genres, cast, and keywords. NLP-powered, TMDB-backed. It knows your taste better than you do.</sub><br/>
+
 `Python` `NLP` `Scikit-learn` `Streamlit` `TMDB API`
 <br/>
 [![Repo](https://img.shields.io/badge/View-Source-yellow?style=flat-square)](https://github.com/shreyam1008/Movie-Recommender-System)
@@ -201,7 +205,9 @@ Institute of Engineering, Pulchowk Campus<br/>
 <td width="50%" valign="top">
 
 ### 🎨 [Visualise OKLCH](https://shreyam1008.github.io/visualise-oklch/)
-**You think you know colors? Think again.** VS Code / Cursor / Windsurf extension — inline OKLCH previews + interactive playground. 54 KB VSIX. Because `#ff0000` tells you nothing and `oklch(63% 0.26 29)` tells you everything.<br/>
+> **You think you know colors? Think again.**
+> <sub>VS Code / Cursor / Windsurf extension — inline OKLCH previews + interactive playground. 54 KB VSIX. Because `#ff0000` tells you nothing and `oklch(63% 0.26 29)` tells you everything.</sub><br/>
+
 `TypeScript 6` `VS Code API` `OKLCH` `Open VSX`
 <br/>
 [![Open VSX](https://img.shields.io/badge/Open_VSX-Visualise_OKLCH-purple?style=flat-square)](https://open-vsx.org/extension/shreyam1008/visualise-oklch)
@@ -210,7 +216,9 @@ Institute of Engineering, Pulchowk Campus<br/>
 <td width="50%" valign="top">
 
 ### ⚡ [GoBarryGo](https://github.com/shreyam1008/gobarrygo)
-**Your browser downloads like it's dial-up. This doesn't.** Desktop download manager that splits files across 16 parallel connections via aria2c. Your browser opens 1 connection like it's 2005. GoBarryGo opens 16. Math wins.<br/>
+> **Your browser downloads like it's dial-up. This doesn't.**
+> <sub>Desktop download manager that splits files across 16 parallel connections via aria2c. Your browser opens 1 connection like it's 2005. GoBarryGo opens 16. Math wins.</sub><br/>
+
 `Go` `Wails v3` `React 19` `TypeScript` `aria2c` `JSON-RPC`
 <br/>
 [![GoBarryGo](https://img.shields.io/badge/Install-GoBarryGo-orange?style=flat-square)](https://github.com/shreyam1008/gobarrygo/releases)
@@ -222,7 +230,9 @@ Institute of Engineering, Pulchowk Campus<br/>
 <td width="50%" valign="top">
 
 ### 🗄️ [dbterm](https://shreyam1008.github.io/dbterm/)
-**Viewing your DB in 10 MB. Take it or leave it.** Keyboard-first terminal SQL client for PostgreSQL, MySQL, SQLite, Turso & Cloudflare D1. ~8 MB idle RAM. While DBeaver is still loading its splash screen, I've already run three queries.<br/>
+> **Viewing your DB in 10 MB. Take it or leave it.**
+> <sub>Keyboard-first terminal SQL client for PostgreSQL, MySQL, SQLite, Turso & Cloudflare D1. ~8 MB idle RAM. While DBeaver is still loading its splash screen, I've already run three queries.</sub><br/>
+
 `Go` `Terminal UI` `PostgreSQL` `MySQL` `SQLite` `Turso` `D1`
 <br/>
 [![dbterm](https://img.shields.io/badge/Download-dbterm-green?style=flat-square)](https://github.com/shreyam1008/dbterm/releases)
@@ -231,7 +241,9 @@ Institute of Engineering, Pulchowk Campus<br/>
 <td width="50%" valign="top">
 
 ### 🔬 [ProtoPeek](https://github.com/shreyam1008/ProtoPeek)
-**Let's get on with the new age.** The Postman for gRPC — performance-first workbench with reflection-driven exploration, proto visualization, metadata inspection, and load simulation. One binary. Zero config. Because Postman forgot gRPC exists.<br/>
+> **Let's get on with the new age.**
+> <sub>The Postman for gRPC — performance-first workbench with reflection-driven exploration, proto visualization, metadata inspection, and load simulation. One binary. Zero config. Because Postman forgot gRPC exists.</sub><br/>
+
 `Go` `React` `TypeScript` `Bun` `gRPC` `Docker`
 <br/>
 [![ProtoPeek](https://img.shields.io/badge/Try_It-ProtoPeek-blue?style=flat-square)](https://github.com/shreyam1008/ProtoPeek)
