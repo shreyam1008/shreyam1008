@@ -5,8 +5,9 @@
 
 <br/>
 
-**I build developer tools. Some of them people actually use.**<br/>
-**The rest? Sweat equity with a commit history.**
+**I build developer tools. Some of them people actually use.**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&repeat=true&random=false&width=500&height=30&lines=The+rest%3F+Sweat+equity+with+a+commit+history.;Break+it.+Fix+it.+Ship+it.+Repeat.;If+it+compiles%2C+it+ships.+Probably.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -24,6 +25,8 @@
 <div align="center">
 
 **Senior Full-Stack Engineer · 7+ years · Open-source obsessive**
+<br/>
+<sub>B.E. Computer Engineering · M.Sc. Computer Science · Still Googling how to center a div</sub>
 
 *I ship frontend, backend, infra, and the strong opinions that hold them together.*
 
@@ -74,54 +77,122 @@ Institute of Engineering, Pulchowk Campus<br/>
 
 <br/>
 
-<details open>
-<summary>&ensp;⌨️&ensp;<b>The Grind</b></summary>
+<table>
+<tr>
+<td align="center" width="50">
+<br/>
+<img width="1" height="1" />
+<sub>💸</sub>
+<br/>
+<img width="1" height="10" />
+<br/>
+<sub>│</sub>
+</td>
+<td>
 
-> Automation scripts and data entry gigs for rent money. Got paid to click buttons professionally so I could eventually get paid to press keys professionally. Not glamorous — but it kept the lights on and the terminal open.
+**The Grind**
+<br/>
+<sub>Automation scripts and data entry gigs for rent money. Got paid to click buttons professionally so I could eventually get paid to press <em>keys</em> professionally. Peak career trajectory.</sub>
 
-</details>
+</td>
+</tr>
+<tr>
+<td align="center" width="50">
+<sub>│</sub>
+<br/>
+<sub>💥</sub>
+<br/>
+<sub>│</sub>
+</td>
+<td>
 
-<details open>
-<summary>&ensp;✘&ensp;<b>Failed a Startup</b></summary>
+**Failed a Startup**
+<br/>
+<sub>Built something nobody asked for. Burned through savings and sleep. Figured out what NOT to build — the most expensive education and the most useful one.</sub>
 
-> Built something nobody asked for. Burned through savings and sleep. Figured out what NOT to build — the most expensive education and the most useful one.
+</td>
+</tr>
+<tr>
+<td align="center" width="50">
+<sub>│</sub>
+<br/>
+<sub>🇯🇵</sub>
+<br/>
+<sub>│</sub>
+</td>
+<td>
 
-</details>
+**Small Tech Firm in Japan**
+<br/>
+<sub>Figured out discipline and craft. Code reviews at 7 AM. Ship or explain why you didn't.</sub>
 
-<details open>
-<summary>&ensp;🇯🇵&ensp;<b>Small Tech Firm in Japan</b></summary>
+</td>
+</tr>
+<tr>
+<td align="center" width="50">
+<sub>│</sub>
+<br/>
+<sub>🎬</sub>
+<br/>
+<sub>│</sub>
+</td>
+<td>
 
-> Figured out discipline and craft. Code reviews at 7 AM. Ship or explain why you didn't.
+**Enterprise Video Streaming Pipeline**
+<br/>
+<sub>Figured out scale — and that buffering is a personal insult to the user.</sub>
 
-</details>
+</td>
+</tr>
+<tr>
+<td align="center" width="50">
+<sub>│</sub>
+<br/>
+<sub>🏥</sub>
+<br/>
+<sub>│</sub>
+</td>
+<td>
 
-<details open>
-<summary>&ensp;🎬&ensp;<b>Enterprise Video Streaming Pipeline</b></summary>
+**Multinational Healthcare System**
+<br/>
+<sub>Figured out systems that can't go down. Downtime here isn't a Slack alert — it's a patient.</sub>
 
-> Figured out scale — and that buffering is a personal insult to the user.
+</td>
+</tr>
+<tr>
+<td align="center" width="50">
+<sub>│</sub>
+<br/>
+<sub>💻</sub>
+<br/>
+<sub>│</sub>
+</td>
+<td>
 
-</details>
+**Techified Startups & Established Offices** &ensp; <sub><i>alongside everything</i></sub>
+<br/>
+<sub>Took non-tech companies from Excel dashboards and manual workflows to full-stack analytics platforms and automated pipelines. Helped them go from <em>"can someone update the spreadsheet?"</em> to <em>"we need a proper engineering team."</em> Watched them grow with the tech world.</sub>
 
-<details open>
-<summary>&ensp;🏥&ensp;<b>Multinational Healthcare System</b></summary>
+</td>
+</tr>
+<tr>
+<td align="center" width="50">
+<sub>│</sub>
+<br/>
+<sub>🙏</sub>
+<br/>
+<img width="1" height="1" />
+</td>
+<td>
 
-> Figured out systems that can't go down. Downtime here isn't a Slack alert — it's a patient.
+**Radhey**
+<br/>
+<sub>Figured out purpose.</sub>
 
-</details>
-
-<details open>
-<summary>&ensp;💻&ensp;<b>Techified Startups & Established Offices</b>&ensp;<sub><i>· alongside everything</i></sub></summary>
-
-> Helped non-tech companies catch up with the modern world. Turned Excel-based workflows into full-stack analytics dashboards. Replaced manual processes with automated pipelines. Took them from *"can you add a Google Maps embed?"* to *"we need a proper engineering team."* — and watched them grow.
-
-</details>
-
-<details open>
-<summary>&ensp;🙏&ensp;<b>Radhey</b></summary>
-
-> Figured out purpose.
-
-</details>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -133,7 +204,7 @@ Institute of Engineering, Pulchowk Campus<br/>
 <tr>
 <td width="50%" valign="top">
 
-### � [GitVibes / GitSocial](https://gitvibes.pages.dev/)
+### 💬 [GitVibes / GitSocial](https://gitvibes.pages.dev/)
 **Where code becomes conversation.** Social platform built around public GitHub activity — react to commits, comment on code, follow developers. Twitter for people who `git push` instead of posting selfies.<br/>
 `React` `TypeScript` `Cloudflare Pages`
 <br/>
@@ -226,6 +297,15 @@ Institute of Engineering, Pulchowk Campus<br/>
 
 </div>
 
+---
+
+## 🔧 Open-Source Battle Scars & Homelab Life
+
+> [!TIP]
+> **The tools I've battled into submission** — Deployed, configured, debugged, cursed at, and eventually made work: **Metabase**, **Keycloak**, **Element/Matrix**, **Zulip**, and more. I don't know why half of these take a PhD to set up, but they're the most respectful tools in the bunch — and I'd choose them over any proprietary alternative, every single time.
+
+> [!NOTE]
+> **Homelab person** — I will absolutely spend 2× the time self-hosting a NAS than it would cost to just pay for a cloud storage subscription. It's not about the money anymore. It's about the principle. And the uptime dashboard. And the blinking LEDs.
 
 ---
 
