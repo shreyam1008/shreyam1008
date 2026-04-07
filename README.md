@@ -133,49 +133,7 @@ Institute of Engineering, Pulchowk Campus<br/>
 <tr>
 <td width="50%" valign="top">
 
-### 🔬 [ProtoPeek](https://github.com/shreyam1008/ProtoPeek)
-**The Postman for gRPC.** Performance-first workbench with reflection-driven exploration, proto visualization, metadata inspection, and load simulation. One binary. Zero config. Because Postman forgot gRPC exists.<br/>
-`Go` `React` `TypeScript` `Bun` `gRPC` `Docker`
-<br/>
-[![ProtoPeek](https://img.shields.io/badge/Try_It-ProtoPeek-blue?style=flat-square)](https://github.com/shreyam1008/ProtoPeek)
-
-</td>
-<td width="50%" valign="top">
-
-### 🗄️ [dbterm](https://shreyam1008.github.io/dbterm/)
-**One binary. Five databases. Zero runtime.** Keyboard-first terminal SQL client for PostgreSQL, MySQL, SQLite, Turso & Cloudflare D1. ~8 MB idle RAM. While DBeaver is still loading its splash screen, I've already run three queries.<br/>
-`Go` `Terminal UI` `PostgreSQL` `MySQL` `SQLite` `Turso` `D1`
-<br/>
-[![dbterm](https://img.shields.io/badge/Download-dbterm-green?style=flat-square)](https://github.com/shreyam1008/dbterm/releases)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ [GoBarryGo](https://github.com/shreyam1008/gobarrygo)
-**Make downloads 16× faster.** Desktop download manager that splits files across multiple parallel connections via aria2c. Your browser downloads with 1 connection like it's 2005. GoBarryGo opens 16. Math wins.<br/>
-`Go` `Wails v3` `React 19` `TypeScript` `aria2c` `JSON-RPC`
-<br/>
-[![GoBarryGo](https://img.shields.io/badge/Install-GoBarryGo-orange?style=flat-square)](https://github.com/shreyam1008/gobarrygo/releases)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 [Visualise OKLCH](https://shreyam1008.github.io/visualise-oklch/)
-**See modern CSS color like it deserves.** VS Code / Cursor / Windsurf extension — inline OKLCH previews + interactive playground. 54 KB VSIX. Because `#ff0000` tells you nothing and `oklch(63% 0.26 29)` tells you everything.<br/>
-`TypeScript 6` `VS Code API` `OKLCH` `Open VSX`
-<br/>
-[![Open VSX](https://img.shields.io/badge/Open_VSX-Visualise_OKLCH-purple?style=flat-square)](https://open-vsx.org/extension/shreyam1008/visualise-oklch)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💬 [GitVibes / GitSocial](https://gitvibes.pages.dev/)
+### � [GitVibes / GitSocial](https://gitvibes.pages.dev/)
 **Where code becomes conversation.** Social platform built around public GitHub activity — react to commits, comment on code, follow developers. Twitter for people who `git push` instead of posting selfies.<br/>
 `React` `TypeScript` `Cloudflare Pages`
 <br/>
@@ -185,10 +143,52 @@ Institute of Engineering, Pulchowk Campus<br/>
 <td width="50%" valign="top">
 
 ### 🎬 [Movie Recommender](https://github.com/shreyam1008/Movie-Recommender-System)
-**NLP-powered movie discovery.** Describe what you want in plain English — cosine similarity finds it across tags, genres, cast, and keywords. TMDB-powered. Better taste than your Netflix algorithm.<br/>
+**Your Netflix algorithm wishes.** Describe what you want in plain English — cosine similarity finds it across tags, genres, cast, and keywords. NLP-powered, TMDB-backed. It knows your taste better than you do.<br/>
 `Python` `NLP` `Scikit-learn` `Streamlit` `TMDB API`
 <br/>
 [![Repo](https://img.shields.io/badge/View-Source-yellow?style=flat-square)](https://github.com/shreyam1008/Movie-Recommender-System)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 [Visualise OKLCH](https://shreyam1008.github.io/visualise-oklch/)
+**You think you know colors? Think again.** VS Code / Cursor / Windsurf extension — inline OKLCH previews + interactive playground. 54 KB VSIX. Because `#ff0000` tells you nothing and `oklch(63% 0.26 29)` tells you everything.<br/>
+`TypeScript 6` `VS Code API` `OKLCH` `Open VSX`
+<br/>
+[![Open VSX](https://img.shields.io/badge/Open_VSX-Visualise_OKLCH-purple?style=flat-square)](https://open-vsx.org/extension/shreyam1008/visualise-oklch)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ [GoBarryGo](https://github.com/shreyam1008/gobarrygo)
+**Your browser downloads like it's dial-up. This doesn't.** Desktop download manager that splits files across 16 parallel connections via aria2c. Your browser opens 1 connection like it's 2005. GoBarryGo opens 16. Math wins.<br/>
+`Go` `Wails v3` `React 19` `TypeScript` `aria2c` `JSON-RPC`
+<br/>
+[![GoBarryGo](https://img.shields.io/badge/Install-GoBarryGo-orange?style=flat-square)](https://github.com/shreyam1008/gobarrygo/releases)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ [dbterm](https://shreyam1008.github.io/dbterm/)
+**Viewing your DB in 10 MB. Take it or leave it.** Keyboard-first terminal SQL client for PostgreSQL, MySQL, SQLite, Turso & Cloudflare D1. ~8 MB idle RAM. While DBeaver is still loading its splash screen, I've already run three queries.<br/>
+`Go` `Terminal UI` `PostgreSQL` `MySQL` `SQLite` `Turso` `D1`
+<br/>
+[![dbterm](https://img.shields.io/badge/Download-dbterm-green?style=flat-square)](https://github.com/shreyam1008/dbterm/releases)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 [ProtoPeek](https://github.com/shreyam1008/ProtoPeek)
+**Let's get on with the new age.** The Postman for gRPC — performance-first workbench with reflection-driven exploration, proto visualization, metadata inspection, and load simulation. One binary. Zero config. Because Postman forgot gRPC exists.<br/>
+`Go` `React` `TypeScript` `Bun` `gRPC` `Docker`
+<br/>
+[![ProtoPeek](https://img.shields.io/badge/Try_It-ProtoPeek-blue?style=flat-square)](https://github.com/shreyam1008/ProtoPeek)
 
 </td>
 </tr>
