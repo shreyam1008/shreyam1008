@@ -5,7 +5,7 @@
 
 <br/>
 
-**I build developer tools. Some of them people actually use.**
+**I build tools developers actually use.**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&repeat=true&random=false&width=500&height=30&lines=The+rest%3F+Sweat+equity+with+a+commit+history.;Break+it.+Fix+it.+Ship+it.+Repeat.;If+it+compiles%2C+it+ships.+Probably.)](https://git.io/typing-svg)
 
