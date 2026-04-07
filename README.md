@@ -21,19 +21,74 @@
 
 ## ⚡ About
 
+<div align="center">
+
 **Senior Full-Stack Engineer · 7+ years · Open-source obsessive**
 
-I ship frontend, backend, infra, and the opinions that come with all three.
+*I ship frontend, backend, infra, and the opinions that come with all three.*
 
-> **Tabs vs spaces?** Whoever pays me.
+</div>
 
-### How I think about the stack
+<br/>
 
-- **Frontend** — The user should feel *happy*. I obsess over 2px alignment shifts, 60fps scroll, and hover states nobody consciously notices but everyone unconsciously feels. The best UI is the one where nothing feels wrong and you can't explain why.
-- **Backend** — Fast as physically possible. Go on all cores. I'd go Zig or Rust if I had the temperament, but Go ships today and ships clean.
-- **Database** — A necessary evil I've learned to respect. I don't love writing SQL at 2 AM, but the database is always right and I am usually wrong. We have an understanding.
-- **Deployment** — Muddy, chaotic, and I love every second of it. I would put my house in a Docker container if the landlord allowed it. Caddy, Cloudflare, GitHub Actions — if it can be automated, it will be.
-- **Tooling** — `bun` over `node`. `uv` over `pip`. If the tool is slower than the code it manages, the tool is the bug.
+<table>
+<tr>
+<td align="center" width="80">🎨</td>
+<td>
+
+**Frontend**
+
+The user should feel *happy*. I obsess over 2px alignment shifts, 60fps scroll, and hover states nobody consciously notices but everyone unconsciously feels. The best UI is the one where nothing feels wrong and you can't explain why.
+
+</td>
+</tr>
+<tr>
+<td align="center" width="80">⚙️</td>
+<td>
+
+**Backend**
+
+Fast as physically possible. Go on all cores. I'd go Zig or Rust if I had the temperament, but Go ships today and ships clean.
+
+</td>
+</tr>
+<tr>
+<td align="center" width="80">🗃️</td>
+<td>
+
+**Database**
+
+A necessary evil I've learned to respect. I don't love writing SQL at 2 AM, but the database is always right and I am usually wrong. We have an understanding.
+
+</td>
+</tr>
+<tr>
+<td align="center" width="80">🚢</td>
+<td>
+
+**Deployment**
+
+Muddy, chaotic, and I love every second of it. I would put my house in a Docker container if the landlord allowed it. Caddy, Cloudflare, GitHub Actions — if it can be automated, it will be.
+
+</td>
+</tr>
+<tr>
+<td align="center" width="80">🏎️</td>
+<td>
+
+**Tooling**
+
+`bun` over `node`. `uv` over `pip`. If the tool is slower than the code it manages, the tool is the bug.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+> *Tabs vs spaces?* **Whoever pays me.**
+
+</div>
 
 ---
 
