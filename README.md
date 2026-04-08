@@ -313,6 +313,53 @@ Institute of Engineering, Pulchowk Campus<br/>
 
 ---
 
+## 🏆 GitHub Profile Trophy
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shreyam1008&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 📜 Dev Quote of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+
+</div>
+
+---
+
+## 📊 Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+**🚧 WakaTime setup required — see instructions below**
+
+> To activate this section:
+> 1. Sign up at [wakatime.com](https://wakatime.com) and install the WakaTime plugin in your editor
+> 2. Go to [WakaTime Settings](https://wakatime.com/settings/account) → copy your **Secret API Key**
+> 3. Add it as a GitHub repository secret named `WAKATIME_API_KEY` in `shreyam1008/shreyam1008` → Settings → Secrets
+> 4. The GitHub Action (`.github/workflows/waka-readme.yml`) will auto-update this section daily
+<!--END_SECTION:waka-->
+
+---
+
+## 🎵 Now Playing — Spotify
+
+<div align="center">
+
+<!-- Replace with your own Spotify README widget after setup -->
+<!-- Setup: https://github.com/kittinan/spotify-github-profile -->
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=1a1b27&interchange=true&bar_color=58a6ff" alt="Spotify Now Playing" />
+
+<sub>🎧 Powered by <a href="https://github.com/kittinan/spotify-github-profile">spotify-github-profile</a> — setup takes ~5 min</sub>
+
+</div>
+
+---
 
 ## 🧊 3D Contributions
 
