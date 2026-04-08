@@ -313,17 +313,6 @@ Institute of Engineering, Pulchowk Campus<br/>
 
 ---
 
-## 😂 Random Dev Joke
-
-<div align="center">
-
-<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&qColor=%2358a6ff&aColor=%238b949e" alt="Dev Joke" />
-
-<sub>↻ Refresh the page for a new one</sub>
-
-</div>
-
----
 
 ## 🧊 3D Contributions
 
