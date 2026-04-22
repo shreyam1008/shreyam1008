@@ -28,7 +28,7 @@
 <br/>
 <sub>B.E. and M.Sc. in CS, but still Googling how to center a div</sub>
 
-*I ship frontend, backend, infra, and the strong opinions that hold them together.*
+*I ship frontend, backend, infra, and the strong opinions that holds them together.*
 
 </div>
 
