@@ -250,6 +250,23 @@ Institute of Engineering, Pulchowk Campus<br/>
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📝 [Markpad](https://shreyam1008.github.io/markpad/)
+> **Every "lightweight" editor ships 200 MB of Chromium. This one doesn't.**
+> <sub>Native Markdown notepad with syntax highlighting, split view, version history with diffs, session restore, and autosaved drafts. Go + Wails + system webview. Single binary under 10 MB. No Electron, no cloud, no telemetry.</sub><br/>
+
+`Go` `Wails` `Vanilla JS` `Tailwind CSS` `highlight.js`
+<br/>
+[![Markpad](https://img.shields.io/badge/Download-Markpad-2f6f61?style=flat-square)](https://github.com/shreyam1008/markpad/releases)
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 ---
