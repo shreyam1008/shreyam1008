@@ -265,6 +265,14 @@ Institute of Engineering, Pulchowk Campus<br/>
 </td>
 <td width="50%" valign="top">
 
+### 🧭 [TailScout](https://shreyam1008.github.io/tailScout/)
+> **No official Linux desktop client exists for Tailscale. TailScout fills that gap.**
+> <sub>A clean, native Rust GUI for Tailscale on Linux — built with GTK4 + libadwaita. Modern, low-footprint window to see your tailnet, connect/disconnect, manage exit nodes, and send files over Taildrop. RAM usage is ~40–50 MB at runtime.</sub><br/>
+
+`Rust` `GTK4` `libadwaita` `Tailscale` `Linux`
+<br/>
+[![TailScout](https://img.shields.io/badge/Install-TailScout-3162c8?style=flat-square)](https://github.com/shreyam1008/tailScout/releases)
+
 </td>
 </tr>
 </table>
