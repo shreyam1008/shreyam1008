@@ -240,13 +240,13 @@ Institute of Engineering, Pulchowk Campus<br/>
 </td>
 <td width="50%" valign="top">
 
-### 🔬 [ProtoPeek](https://github.com/shreyam1008/ProtoPeek)
-> **Let's get on with the new age.**
-> <sub>The Postman for gRPC — performance-first workbench with reflection-driven exploration, proto visualization, metadata inspection, and load simulation. One binary. Zero config. Because Postman forgot gRPC exists.</sub><br/>
+### 🔬 [ProtoPeek](https://protopeek.shreyam1008.com.np/)
+> **Inspect the protocol, not just the payload.**
+> <sub>Local-first gRPC and HTTP workbench with reflection, proto exploration, streaming, metadata, redirects, TLS context, and request timing. One Go binary opens the browser UI; credentials stay out of automatic history.</sub><br/>
 
-`Go` `React` `TypeScript` `Bun` `gRPC` `Docker`
+`Go` `React` `TypeScript` `Bun` `gRPC` `HTTP` `Local-first`
 <br/>
-[![ProtoPeek](https://img.shields.io/badge/Try_It-ProtoPeek-blue?style=flat-square)](https://github.com/shreyam1008/ProtoPeek)
+[![ProtoPeek](https://img.shields.io/badge/Open-ProtoPeek-0d9488?style=flat-square)](https://protopeek.shreyam1008.com.np/)
 
 </td>
 </tr>
