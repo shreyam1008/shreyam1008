@@ -229,9 +229,9 @@ Institute of Engineering, Pulchowk Campus<br/>
 <tr>
 <td width="50%" valign="top">
 
-### 🗄️ [dbterm](https://shreyam1008.github.io/dbterm/)
-> **Viewing your DB in 10 MB. Take it or leave it.**
-> <sub>Keyboard-first terminal SQL client for PostgreSQL, MySQL, SQLite, Turso & Cloudflare D1. ~8 MB idle RAM. While DBeaver is still loading its splash screen, I've already run three queries.</sub><br/>
+### 🗄️ [dbterm](https://dbterm.shreyam1008.com.np/)
+> **A keyboard-first database workbench that stays out of your way.**
+> <sub>v0.10.0 supports PostgreSQL, MySQL, SQLite, Turso & Cloudflare D1, with a complete in-app guide, backup workflows, generated Markdown docs, and agent-readable discovery surfaces.</sub><br/>
 
 `Go` `Terminal UI` `PostgreSQL` `MySQL` `SQLite` `Turso` `D1`
 <br/>
@@ -241,8 +241,8 @@ Institute of Engineering, Pulchowk Campus<br/>
 <td width="50%" valign="top">
 
 ### 🔬 [ProtoPeek](https://protopeek.shreyam1008.com.np/)
-> **Inspect the protocol, not just the payload.**
-> <sub>Local-first gRPC and HTTP workbench with reflection, proto exploration, streaming, metadata, redirects, TLS context, and request timing. One Go binary opens the browser UI; credentials stay out of automatic history.</sub><br/>
+> **Inspect the protocol and the path, not just the payload.**
+> <sub>v0.4.0 adds a Linux Network Workbench for explicit path evidence, authorized local discovery, saved snapshots, and a logical topology map alongside the gRPC and HTTP surfaces. One Go binary opens the browser UI; credentials stay out of automatic history.</sub><br/>
 
 `Go` `React` `TypeScript` `Bun` `gRPC` `HTTP` `Local-first`
 <br/>
