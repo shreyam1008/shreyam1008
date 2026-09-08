@@ -254,13 +254,13 @@ Institute of Engineering, Pulchowk Campus<br/>
 <tr>
 <td width="50%" valign="top">
 
-### 📝 [Markpad](https://shreyam1008.github.io/markpad/)
-> **Every "lightweight" editor ships 200 MB of Chromium. This one doesn't.**
-> <sub>Native Markdown notepad with syntax highlighting, split view, version history with diffs, session restore, and autosaved drafts. Go + Wails + system webview. Single binary under 10 MB. No Electron, no cloud, no telemetry.</sub><br/>
+### 📝 [Quillpane](https://quillpane.shreyam1008.com.np/)
+> **A small Markdown notepad. Your files, your folders, no account.**
+> <sub>Quillpane (formerly Markpad) is a native Markdown notepad with folder search, split preview, version history with diffs, session restore, and recovery drafts. Go + Wails + the system webview. No Electron, cloud, or telemetry. Existing Markpad install and data identifiers remain compatible.</sub><br/>
 
-`Go` `Wails` `Vanilla JS` `Tailwind CSS` `highlight.js`
+`Go` `Wails` `React` `TypeScript` `Tailwind CSS`
 <br/>
-[![Markpad](https://img.shields.io/badge/Download-Markpad-2f6f61?style=flat-square)](https://github.com/shreyam1008/markpad/releases)
+[![Quillpane](https://img.shields.io/badge/Download-Quillpane-2f6f61?style=flat-square)](https://github.com/shreyam1008/markpad/releases)
 
 </td>
 <td width="50%" valign="top">
